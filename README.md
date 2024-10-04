@@ -1,1 +1,1 @@
-live link = https://netflix-clone-responsive-gamma.vercel.app/
+live link = https://netflix-clone-mayank.vercel.app/
