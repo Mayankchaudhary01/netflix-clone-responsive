@@ -1,1 +1,1 @@
-live link = https://netflix-clone-mayank.vercel.app/
+live link = https://netflix-clone-tannu.vercel.app/
